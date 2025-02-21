@@ -1,0 +1,78 @@
+﻿WHONET Specimen Code	WHONET Specimen Number	Local Specimen Code	Specimen Name
+pl	54	Placenta	Placenta
+sr	168	Serum	Serum
+st	41	Feces	Stool
+ur	11	Urin	Urine
+ti	36	Vev	Tissue
+wd	21	Sårsekret	Wound
+ur	11	Urin, transportagar	Urine
+no	1	Nesesekret	Nose
+th	2	Halssekret	Throat
+mi	56	Morsmelk	Breast milk
+sp	3	Ekspektorat	Sputum
+as	23	Abscessinnhold	Abscess
+ot	89	Annet materiale	Other
+ba	63	Bronkialskyllevæske (BAL)	Broncho-alveolar lavage
+wd	21	Operasjonssår	Wound
+sk	8	Hud	Skin
+at	29	Aspirat	Aspirate
+tr	26	Trakealsekret	Tracheal
+re	42	Analsekret	Rectal
+jf	153	Leddvæske	Joint fluid
+pf	64	Pleuravæske	Pleural fluid
+cm	140	Bakteriekultur	Culture medium
+va	34	Vaginalsekret	Vagina
+co	47	Konjunktivalsekret	Conjunctiva
+di	92	Dialysevæske	Dialysis fluid
+ea	5	Øregangssekret	Ear
+ab	15	Ascites	Abdominal fluid
+cx	32	Cervixsekret	Cervix
+se	60	Sekret	Secretion
+bi	19	Galle	Bile
+pt	133	Peritonsillær abscess	Abscess, peritonsillar
+np	102	Nasopharynxsekret	Nasopharynx
+ca	91	Kateterspiss	Catheter
+ga	16	Ventrikkelaspirat	Gastric fluid
+ca	91	Drenspiss	Catheter
+pb	124	Osteosyntesemateriale	Prosthesis, bone
+ps	24	Puss	Pus
+si	27	Bihule(sinus)sekret	Sinus
+bo	61	Beinvev	Bone
+eh	146	Øsofagussekret	Esophagus
+ue	58	Urethrasekret	Urethra
+bx	35	Biopsi	Biopsy
+pd	122	Pericardvæske	Pericardial fluid
+cy	86	Cysteinnhold	Cyst
+bu	85	Bursainnhold	Bursa
+mo	7	Munnsekret	Mouth
+nl	101	Negl	Nail
+fi	50	Fistelsekret	Fistula
+am	25	Amnionvæske	Amniotic fluid
+sm	57	Sædvæske	Semen
+sk	8	Atherom	Skin
+ot	89	Hematominnhold	Other
+ot	89	Børste	Other
+ot	89	Sp	Other
+ot	89	B	Other
+sf	13	Spinalvæske	Cerebrospinal fluid
+ca	91	Shuntspiss	Catheter
+st	41	Fæces	Stool
+uc	10	Urin, permanent kateter	Urine, catheter
+uc	10	Urin, engangskateter	Urine, catheter
+bo	61	Beinbiopsi	Bone
+ur	11	Urin, samlepose	Urine
+ur	11	Urin, midtstråle	Urine
+hv	39	Hjerteventil	Heart valve
+ub	78	Urin, blærepunksjon	Urine, bladder
+np	102	Nasopharynx	Nasopharynx
+pi	162	Perineum	Perineum
+bl	12	Blod	Blood
+gn	51	Genital sekret	Genital
+tr	26	Trachealsekret	Tracheal
+dn	142	Dren	Drain
+ca	91	Kateter	Catheter
+pd	122	Pericard væske	Pericardial fluid
+br	4	Bronkialskyllevæske	Bronchial
+in	172	Indusert sputum	Sputum, induced
+si	27	Bihulesekret	Sinus
+hr	100	Hår	Hair

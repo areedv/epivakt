@@ -1,0 +1,453 @@
+﻿WHONET Organism Code	Local Organism Code	Organism Name	WHONET Organism Flag
+bfr	BACTEROIDES FRAGILIS	Bacteroides fragilis	
+efm	ENTEROCOCCUS FAECIUM	Enterococcus faecium	
+efa	ENTEROCOCCUS FAECALIS	Enterococcus faecalis	
+ngo	NEISSERIA GONORRHOEAE	Neisseria gonorrhoeae	
+kox	KLEBSIELLA OXYTOCA	Klebsiella oxytoca	
+eco	ESCHERICHIA COLI	Escherichia coli	
+mtu	MYCOBACTERIUM TUBERCULOSIS	Mycobacterium tuberculosis	
+hin	HAEMOPHILUS INFLUENZAE	Haemophilus influenzae	
+cal	CANDIDA ALBICANS	Candida albicans	
+pro	CUTIBACTERIUM ACNES	Cutibacterium acnes	
+cor	CORYNEBACTERIUM Sp.	Corynebacterium sp.	
+sep	STAPHYLOCOCCUS EPIDERMIDIS	Staphylococcus epidermidis	
+cdu	CANDIDA DUBLINIENSIS	Candida dubliniensis	
+vpa	VEILLONELLA PARVULA	Veillonella parvula	
+kpn	KLEBSIELLA PNEUMONIAE	Klebsiella pneumoniae	
+eav	ENTEROCOCCUS AVIUM	Enterococcus avium	
+bbi	PREVOTELLA BIVIA	Prevotella bivia	
+nsu	NEISSERIA SUBFLAVA	Neisseria subflava	
+gva	GARDNERELLA VAGINALIS	Gardnerella vaginalis	
+cdf	CLOSTRIDIOIDES DIFFICILE	Clostridioides difficile	
+mo-	MORAXELLA Sp.	Moraxella sp.	
+tot	TURICELLA OTITIDIS	Turicella otitidis	
+ci-	CITROBACTER Sp.	Citrobacter sp.	
+slu	STAPHYLOCOCCUS LUGDUNENSIS	Staphylococcus lugdunensis	
+eae	ENTEROBACTER AEROGENES	Enterobacter aerogenes	
+aun	AEROCOCCUS URINAE	Aerococcus urinae	
+bcs	BACILLUS Sp.	Bacillus sp.	
+pmi	PROTEUS MIRABILIS	Proteus mirabilis	
+sfo	SERRATIA FONTICOLA	Serratia fonticola	
+pae	PSEUDOMONAS AERUGINOSA	Pseudomonas aeruginosa	
+sho	STAPHYLOCOCCUS HOMINIS	Staphylococcus hominis	
+mxe	MYCOBACTERIUM XENOPI	Mycobacterium xenopi	
+cfr	CITROBACTER FREUNDII	Citrobacter freundii	
+ci2	CORYNEBACTERIUM AMYCOLATUM	Corynebacterium amycolatum	
+plt	ANAEROCOCCUS LACTOLYTICUS	Anaerococcus lactolyticus	
+sca	STAPHYLOCOCCUS CAPITIS	Staphylococcus capitis	
+hpy	HELICOBACTER PYLORI	Helicobacter pylori	
+ecx	ENTEROBACTER CLOACAE COMPLEX	Enterobacter cloacae complex	
+ac-	ACINETOBACTER Sp.	Acinetobacter sp.	
+tru	TRICHOPHYTON RUBRUM	Trichophyton rubrum	
+aba	ACINETOBACTER BAUMANNII	Acinetobacter baumannii	
+asp	ASPERGILLUS Sp.	Aspergillus sp.	
+sma	SERRATIA MARCESCENS	Serratia marcescens	
+aes	AEROCOCCUS SANGUINICOLA	Aerococcus sanguinicola	
+ctt	CLOSTRIDIUM TERTIUM	Clostridium tertium	
+hap	AGGREGATIBACTER APHROPHILUS	Aggregatibacter aphrophilus	
+ecr	EIKENELLA CORRODENS	Eikenella corrodens	
+kvi	KLEBSIELLA VARIICOLA	Klebsiella variicola	
+mos	MORAXELLA OSLOENSIS	Moraxella osloensis	
+bth	BACTEROIDES THETAIOTAOMICRON	Bacteroides thetaiotaomicron	
+fne	FUSOBACTERIUM NECROPHORUM	Fusobacterium necrophorum	
+swa	STAPHYLOCOCCUS WARNERI	Staphylococcus warneri	
+bca	MORAXELLA CATARRHALIS	Moraxella (Branh.) catarrhalis	
+lac	LACTOBACILLUS Sp.	Lactobacillus sp.	
+smg	ROTHIA MUCILAGINOSA	Rothia mucilaginosa	
+pcn	PASTEURELLA CANIS	Pasteurella canis	
+kpl	RAOULTELLA PLANTICOLA	Raoultella planticola	
+fgl	CHRYSEOBACTERIUM GLEUM	Chryseobacterium gleum	
+cst	CORYNEBACTERIUM STRIATUM	Corynebacterium striatum	
+sgu	STREPTOCOCCUS PARASANGUINIS	Streptococcus parasanguinis	
+bvu	BACTEROIDES VULGATUS	Bacteroides vulgatus	
+kl-	KLEBSIELLA Sp.	Klebsiella sp.	
+lad	LECLERCIA ADECARBOXYLATA	Leclercia adecarboxylata	
+san	STREPTOCOCCUS ANGINOSUS	Streptococcus anginosus	
+era	ENTEROCOCCUS RAFFINOSUS	Enterococcus raffinosus	
+apt	ACINETOBACTER PITTII	Acinetobacter pittii	
+cpe	CLOSTRIDIUM PERFRINGENS	Clostridium perfringens	
+mmo	MORGANELLA MORGANII	Morganella morganii	
+cgl	CANDIDA GLABRATA	Candida glabrata	
+ctr	CANDIDA TROPICALIS	Candida tropicalis	
+prt	PREVOTELLA Sp.	Prevotella sp.	
+lah	LACTOBACILLUS RHAMNOSUS	Lactobacillus rhamnosus	
+bde	PREVOTELLA DENTICOLA	Prevotella denticola	
+pes	PEPTOSTREPTOCOCCUS ANAEROBIUS	Peptostreptococcus anaerobius	
+gem	GEMELLA Sp.	Gemella sp.	
+nwe	NEISSERIA WEAVERI	Neisseria weaveri	
+en-	ENTEROBACTER Sp.	Enterobacter sp.	
+shl	STAPHYLOCOCCUS HAEMOLYTICUS	Staphylococcus haemolyticus	
+bce	BACILLUS CEREUS	Bacillus cereus	
+pr-	PROTEUS Sp.	Proteus sp.	
+fu-	FUSOBACTERIUM Sp.	Fusobacterium sp.	
+fnu	FUSOBACTERIUM NUCLEATUM	Fusobacterium nucleatum	
+atc	ACTINOMYCES TURICENSIS	Actinomyces turicensis	
+aod	ACTINOMYCES ODONTOLYTICUS	Actinomyces odontolyticus	
+aec	AEROCOCCUS Sp.	Aerococcus sp.	
+pmg	FINEGOLDIA MAGNA	Finegoldia magna	
+ps-	PSEUDOMONAS Sp.	Pseudomonas sp.	
+hal	HAFNIA ALVEI	Hafnia alvei	
+cpa	CANDIDA PARAPSILOSIS	Candida parapsilosis	
+ppu	PSEUDOMONAS PUTIDA	Pseudomonas putida	
+enh	ENTEROCOCCUS HIRAE	Enterococcus hirae	
+pam	PASTEURELLA MULTOCIDA	Pasteurella multocida	
+bte	BACTEROIDES PYOGENES	Bacteroides pyogenes	
+pin	PREVOTELLA INTERMEDIA	Prevotella intermedia	
+hpi	HAEMOPHILUS PARAINFLUENZAE	Haemophilus parainfluenzae	
+raq	RAHNELLA AQUATILIS	Rahnella aquatilis	
+se-	SERRATIA Sp.	Serratia sp.	
+eae	KLEBSIELLA AEROGENES	Klebsiella aerogenes	
+nrc	ANAEROCOCCUS Sp.	Anaerococcus sp.	
+bcc	BACTEROIDES CACCAE	Bacteroides caccae	
+maf	MYCOBACTERIUM AFRICANUM	Mycobacterium africanum	
+pid	PEPTONIPHILUS INDOLICUS	Peptoniphilus indolicus	
+pma	STENOTROPHOMONAS MALTOPHILIA	Stenotrophomonas maltophilia	
+caj	CAMPYLOBACTER JEJUNI	Campylobacter jejuni	
+clo	CLOSTRIDIUM Sp.	Clostridium sp.	
+eca	ENTEROCOCCUS CASSELIFLAVUS	Enterococcus casseliflavus	
+ha-	HAEMOPHILUS Sp.	Haemophilus sp.	
+pas	PASTEURELLA Sp.	Pasteurella sp.	
+scp	STAPHYLOCOCCUS CAPRAE	Staphylococcus caprae	
+str	STREPTOCOCCUS Sp.	Streptococcus sp.	
+kor	RAOULTELLA ORNITHINOLYTICA	Raoultella ornithinolytica	
+psm	PASTEURELLA STOMATIS	Pasteurella stomatis	
+cmc	CORYNEBACTERIUM MACGINLEYI	Corynebacterium macginleyi	
+ame	ACTINOMYCES MEYERI	Actinomyces meyeri	
+yen	YERSINIA ENTEROCOLITICA	Yersinia enterocolitica	
+cml	CITROBACTER AMALONATICUS	Citrobacter amalonaticus	
+slq	SERRATIA LIQUEFACIENS	Serratia liquefaciens	
+mav	MYCOBACTERIUM AVIUM	Mycobacterium avium	
+phs	PROTEUS HAUSERI	Proteus hauseri	
+pmc	PARVIMONAS MICRA	Parvimonas micra	
+ecl	ENTEROBACTER CLOACAE	Enterobacter cloacae	
+bac	BACTEROIDES Sp.	Bacteroides sp.	
+btu	BACILLUS THURINGIENSIS	Bacillus thuringiensis	
+sen	SALMONELLA ENTERITIDIS	Salmonella Enteritidis	
+hes	SALMONELLA CHESTER	Salmonella Chester	
+cdi	CITROBACTER KOSERI	Citrobacter koseri	
+sce	SACCHAROMYCES CEREVISIAE	Saccharomyces cerevisiae	
+try	TRICHOPHYTON Sp.	Trichophyton sp.	
+pfa	PLASMODIUM FALCIPARUM	Plasmodium falciparum	
+mbo	MYCOBACTERIUM BOVIS	Mycobacterium bovis	
+edu	ENTEROCOCCUS DURANS	Enterococcus durans	
+tto	TRICHOPHYTON TONSURANS	Trichophyton tonsurans	
+aer	AEROMONAS Sp.	Aeromonas sp.	
+ssy	SALMONELLA STANLEY	Salmonella Stanley	
+act	ACTINOMYCES Sp.	Actinomyces sp.	
+sap	STAPHYLOCOCCUS SAPROPHYTICUS	Staphylococcus saprophyticus	
+mor	MORGANELLA Sp.	Morganella sp.	
+can	CANDIDA Sp.	Candida sp.	
+mlu	MICROCOCCUS LUTEUS	Micrococcus luteus	
+pst	PROVIDENCIA STUARTII	Providencia stuartii	
+koz	KLEBSIELLA OZAENAE	Klebsiella ozaenae	
+ccm	CAPNOCYTOPHAGA CANIMORSUS	Capnocytophaga canimorsus	
+fgo	FUSOBACTERIUM GONIDIAFORMANS	Fusobacterium gonidiaformans	
+pps	STAPHYLOCOCCUS SACCHAROLYTICUS	Staphylococcus saccharolyticus	
+spn	STREPTOCOCCUS PNEUMONIAE	Streptococcus pneumoniae	
+bov	BACTEROIDES OVATUS	Bacteroides ovatus	
+bme	PREVOTELLA MELANINOGENICA	Prevotella melaninogenica	
+cam	CAMPYLOBACTER Sp.	Campylobacter sp.	
+bds	PARABACTEROIDES DISTASONIS	Parabacteroides distasonis	
+sau	GULE STAFYLOKOKKER	Staphylococcus aureus	
+scn	HVITE STAFYLOKOKKER	Staphylococcus, coagulase negative	
+scn	HVITE STAFYLOKOKKER (HUDFLORA)	Staphylococcus, coagulase negative	
+svi	GRØNNE STREPTOKOKKER	Streptococcus viridans, alpha-hem.	
+sgc	BETAHEMOLYTISKE STREPTOKOKKER GR B	Streptococcus agalactiae	
+sdy	BETAHEMOLYTISKE STREPTOKOKKER GR G	Streptococcus dysgalactiae	
+san	STREPTOCOCCUS ANGINOSUS GRUPPEN	Streptococcus anginosus	
+eco	ECOLI ESBLPRODUSERENDE STAMME	Escherichia coli	
+spy	BETAHEMOLYTISKE STREPTOKOKKER GR A	Streptococcus pyogenes	
+sdy	BETAHEMOLYTISKE STREPTOKOKKER GR C	Streptococcus dysgalactiae	
+sau	METICILLINRESISTENT GUL STAFYLOKOKK (MRSA)	Staphylococcus aureus	
+smt	STREPTOCOCCUS MITIS GRUPPEN	Streptococcus mitis	
+kpn	KLEBSIELLA PNEUMONIAE ESBLPRODUSERENDE STAMME	Klebsiella pneumoniae ss. pneumoniae	
+sau	METHICILLINRESISTENT GUL STAFYLOKOKK (MRSA)	Staphylococcus aureus	
+spn	PNEUMOKOKKER	Streptococcus pneumoniae	
+mic	MIKROKOKKER	Micrococcus sp.	
+ega	ENTEROCOCCUS GALLINARIUM	Enterococcus gallinarum	
+sbo	STREPTOCOCCUS BOVIS GRUPPEN	Streptococcus bovis	
+ssa	STREPTOCOCCUS SALIVARIUS GRUPPEN	Streptococcus salivarius	
+cub	CUTIBACTERIUM AVIDUM	Cutibacterium sp.	
+ros	ROSEOMONAS	Roseomonas sp.	
+efm	VANCOMYCIN RESISTENT ENTEROCOCCUS FAECIUM	Enterococcus faecium	
+anu	ACTINOMYCES NEUII	Actinomyces neuii ss. neuii	
+bcs	BACILLUS	Bacillus sp.	
+lac	LACTOBACILLUS PARACASEI	Lactobacillus sp.	
+str	BETAHEMOLYTISK STREPTOKOKKER	Streptococcus sp.	
+asp	ASPERGILLUS BRASILIENSIS	Aspergillus sp.	
+pan	PANTOEA SEPTICA	Pantoea sp.	
+sta	STAFYLOKOKKER	Staphylococcus sp.	
+psd	STAPHYLOCOCCUS PSEUDOINTERMEDIUS	Staphylococcus pseudintermedius	
+str	STREPTOKOKKER	Streptococcus sp.	
+psz	PSEUDOMONAS STUTSZERI	Pseudomonas stutzeri	
+ros	ROSEOMONAS MUCOSA	Roseomonas sp.	
+abx	ACINETOBACTER BAUMANNII COMPLEX	Acinetobacter calcoaceticus-baumannii complex	
+ac-	ACINETOBACTER SEIFERTII	Acinetobacter sp.	
+sal	SALMONELLA	Salmonella sp.	
+slc	STAPHYLOCOCCUS SCHLEIFERI	Staphylococcus schleiferi ss. coagulans	
+ngo	GONOKOKKER	Neisseria gonorrhoeae	
+lac	LACTOBACILLUS CURVATUS	Lactobacillus sp.	
+brv	BREVUNDIMONAS	Brevundimonas sp.	
+aam	ACTINOTIGNUM	Actinobaculum sp.	
+ppa	PEPTONIPHILUS HAREI	Peptoniphilus asaccharolyticus	
+ppa	PEPTONIPHILUS	Peptoniphilus asaccharolyticus	
+mib	MICROBACTERIUM	Microbacterium sp.	
+vei	VEILLONELLA	Veillonella sp.	
+mo-	MORAXELLA	Moraxella sp.	
+lca	EGGERTHIA	Eggerthia catenaformis	
+ppt	PEPTOSTREPTOCOCCUS SPECIES (ANAEROBE STREPTOKOKKER)	Peptostreptococcus sp.	
+vei	VEILONELLA SPECIES (ANAEROB GRAM NEGATIV KOKK)	Veillonella sp.	
+prt	PREVOTELLA BERGENSIS	Prevotella sp.	
+cdf	CLOSTRIDIOIDES	Clostridioides difficile	
+pab	PAENIBACILLUS	Paenibacillus sp.	
+pab	PAENIBACILLUS HUMICUS	Paenibacillus sp.	
+pab	PAENIBACILLUS ODORIFER	Paenibacillus sp.	
+aam	ACTINOBACULUM SCHAALII	Actinobaculum sp.	
+bbe	BREVIBACILLUS	Brevibacillus brevis	
+bac	BACTEROIDES	Bacteroides sp.	
+myr	MYROIDES	Myroides sp.	
+ps-	PSEUDOMONAS FULVA	Pseudomonas sp.	
+cor	DIFTEROIDER	Corynebacterium sp.	
+jav	SALMONELLA PARATYPHI B VARIANT JAVA	Salmonella Paratyphi B var. Java	
+sta	STAPHYLOCOCCUS	Staphylococcus sp.	
+aam	ACTINOTIGNUM SCHAALII	Actinobaculum sp.	
+saj	GRANULICATELLA ADIACENS (ABIOTROPHIA ADIACENS)	Granulicatella adiacens	
+pro	PROPIONIBACTERIUM ACNES	Propionibacterium acnes	
+shb	SHIGELLA FLEXNERI	Shigella flexneri	
+efe	ESCHERICHIA FERGUSONII	Escherichia fergusonii	
+spa	SPHINGOMONAS PAUCIMOBILIS	Sphingomonas paucimobilis	
+ent	ENTEROCOCCUS Sp.	Enterococcus sp.	
+bur	CAMPYLOBACTER UREOLYTICUS	Campylobacter ureolyticus	
+pce	BURKHOLDERIA CEPACIA	Burkholderia cepacia	
+sol	STREPTOCOCCUS ORALIS	Streptococcus oralis	
+mch	MYCOBACTERIUM CHELONAE	Mycobacterium chelonae	
+prp	PROPIONIBACTERIUM Sp.	Propionibacterium sp.	
+cgu	CANDIDA GUILLIERMONDII	Candida guilliermondii	
+buk	BURKHOLDERIA Sp.	Burkholderia sp.	
+pml	PLASMODIUM MALARIAE	Plasmodium malariae	
+bbv	BIFIDOBACTERIUM BREVE	Bifidobacterium breve	
+cao	CORYNEBACTERIUM ACCOLENS	Corynebacterium accolens	
+bre	BREVIBACTERIUM Sp.	Brevibacterium sp.	
+ssi	STAPHYLOCOCCUS SIMULANS	Staphylococcus simulans	
+dho	DERMABACTER HOMINIS	Dermabacter hominis	
+bdi	PREVOTELLA DISIENS	Prevotella disiens	
+bdn	BIFIDOBACTERIUM DENTIUM	Bifidobacterium dentium	
+pan	PANTOEA Sp.	Pantoea sp.	
+hse	AGGREGATIBACTER SEGNIS	Aggregatibacter segnis	
+pvu	PROTEUS VULGARIS	Proteus vulgaris	
+tsu	TRICHOPHYTON SOUDANENSE	Trichophyton soudanense	
+pre	PROVIDENCIA RETTGERI	Providencia rettgeri	
+bsl	BACILLUS SUBTILIS	Bacillus subtilis	
+pdi	BREVUNDIMONAS DIMINUTA	Brevundimonas diminuta	
+sdf	ABIOTROPHIA DEFECTIVA	Abiotrophia defectiva	
+clr	CAMPYLOBACTER LARI	Campylobacter lari	
+wde	EXOPHIALA DERMATITIDIS	Exophiala dermatitidis	
+pbu	PREVOTELLA BUCCAE	Prevotella buccae	
+ne-	NEISSERIA Sp.	Neisseria sp.	
+ckr	CANDIDA KRUSEI	Candida krusei	
+cps	CANDIDA KEFYR	Candida kefyr	
+nme	NEISSERIA MENINGITIDIS	Neisseria meningitidis	
+exo	EXOPHIALA Sp.	Exophiala sp.	
+ano	ACINETOBACTER NOSOCOMIALIS	Acinetobacter nosocomialis	
+saj	ABIOTROPHIA ADIACENS	Abiotrophia adiacens	
+eag	PANTOEA AGGLOMERANS	Pantoea agglomerans	
+mic	MICROCOCCUS Sp.	Micrococcus sp.	
+geo	GEOTRICHUM Sp.	Geotrichum sp.	
+smt	STREPTOCOCCUS MITIS	Streptococcus mitis	
+pbc	PREVOTELLA BUCCALIS	Prevotella buccalis	
+sve	STREPTOCOCCUS VESTIBULARIS	Streptococcus vestibularis	
+tbn	TRUEPERELLA BERNARDIAE	Trueperella bernardiae	
+por	PORPHYROMONAS Sp.	Porphyromonas sp.	
+cd2	CORYNEBACTERIUM UREALYTICUM	Corynebacterium urealyticum	
+afu	ASPERGILLUS FUMIGATUS	Aspergillus fumigatus	
+hhe	HAEMOPHILUS HAEMOLYTICUS	Haemophilus haemolyticus	
+cfa	CITROBACTER FARMERI	Citrobacter farmeri	
+eik	EIKENELLA Sp.	Eikenella sp.	
+cac	DELFTIA ACIDOVORANS	Delftia acidovorans	
+bli	BACILLUS LICHENIFORMIS	Bacillus licheniformis	
+srg	STAPHYLOCOCCUS ARGENTEUS	Staphylococcus argenteus	
+pau	SALMONELLA SAINTPAUL	Salmonella Saintpaul	
+clu	CANDIDA LUSITANIAE	Candida lusitaniae	
+cpp	CLOSTRIDIUM PARAPUTRIFICUM	Clostridium paraputrificum	
+csg	CLOSTRIDIUM SPOROGENES	Clostridium sporogenes	
+sam	SALMONELLA TYPHIMURIUM	Salmonella Typhimurium	
+sne	SALMONELLA NEWPORT	Salmonella Newport	
+smu	STREPTOCOCCUS MUTANS	Streptococcus mutans	
+ehe	ESCHERICHIA HERMANNII	Escherichia hermannii	
+c4c	CUPRIAVIDUS PAUCULUS	Cupriavidus pauculus	
+wzo	BERGEYELLA ZOOHELCUM	Bergeyella zoohelcum	
+tvi	TRICHOPHYTON VIOLACEUM	Trichophyton violaceum	
+yer	YERSINIA Sp.	Yersinia sp.	
+pen	PENICILLIUM Sp.	Penicillium sp.	
+bun	BACTEROIDES UNIFORMIS	Bacteroides uniformis	
+gmo	GEMELLA MORBILLORUM	Gemella morbillorum	
+ele	EGGERTHELLA LENTA	Eggerthella lenta	
+lmo	LISTERIA MONOCYTOGENES	Listeria monocytogenes	
+rmu	RHODOTORULA MUCILAGINOSA	Rhodotorula mucilaginosa	
+ahe	ARCANOBACTERIUM HAEMOLYTICUM	Arcanobacterium haemolyticum	
+mnl	MORAXELLA NONLIQUEFACIENS	Moraxella nonliquefaciens	
+mml	MYCOBACTERIUM MALMOENSE	Mycobacterium malmoense	
+cco	CAMPYLOBACTER COLI	Campylobacter coli	
+cdf	CLOSTRIDIUM DIFFICILE	Clostridium difficile	
+sxy	STAPHYLOCOCCUS XYLOSUS	Staphylococcus xylosus	
+lat	LACTOCOCCUS Sp.	Lactococcus sp.	
+tin	CANDIDA INCONSPICUA	Candida inconspicua	
+eas	ENTEROBACTER ASBURIAE	Enterobacter asburiae	
+pad	PROPIONIBACTERIUM AVIDUM	Propionibacterium avidum	
+ppe	PROTEUS PENNERI	Proteus penneri	
+ani	ASPERGILLUS NIGER	Aspergillus niger	
+klu	KLUYVERA Sp.	Kluyvera sp.	
+aca	ACINETOBACTER CALCOACETICUS	Acinetobacter calcoaceticus	
+kkr	KOCURIA KRISTINAE	Kocuria kristinae	
+loa	LOA LOA	Loa loa	
+nca	NEISSERIA CANIS	Neisseria canis	
+hac	AGGREGATIBACTER ACTINOMYCETEMCOMITANS	Aggregatibacter actinomycetemcomitans	
+eve	ENTEROBIUS VERMICULARIS	Enterobius vermicularis	
+rde	ROTHIA DENTOCARIOSA	Rothia dentocariosa	
+mgo	MYCOBACTERIUM GORDONAE	Mycobacterium gordonae	
+soh	SALMONELLA OHIO	Salmonella Ohio	
+sal	SALMONELLA Sp.	Salmonella sp.	
+rao	RAOULTELLA Sp.	Raoultella sp.	
+png	PREVOTELLA NIGRESCENS	Prevotella nigrescens	
+rhd	RHODOCOCCUS Sp.	Rhodococcus sp.	
+c10	CITROBACTER GILLENII	Citrobacter gillenii	
+kas	KLUYVERA ASCORBATA	Kluyvera ascorbata	
+bd-	BORDETELLA Sp.	Bordetella sp.	
+cra	CLOSTRIDIUM RAMOSUM	Clostridium ramosum	
+cbu	CLOSTRIDIUM BUTYRICUM	Clostridium butyricum	
+msi	MYCOBACTERIUM SIMIAE	Mycobacterium simiae	
+pfl	PSEUDOMONAS FLUORESCENS	Pseudomonas fluorescens	
+efl	EPIDERMOPHYTON FLOCCOSUM	Epidermophyton floccosum	
+ccd	CLOSTRIDIUM CADAVERIS	Clostridium cadaveris	
+pov	PLASMODIUM OVALE	Plasmodium ovale	
+cap	CAPNOCYTOPHAGA Sp.	Capnocytophaga sp.	
+fin	CHRYSEOBACTERIUM INDOLOGENES	Chryseobacterium indologenes	
+cse	CLOSTRIDIUM SEPTICUM	Clostridium septicum	
+cyo	CITROBACTER YOUNGAE	Citrobacter youngae	
+sbn	SALMONELLA BRANDENBURG	Salmonella Brandenburg	
+min	MYCOBACTERIUM INTRACELLULARE	Mycobacterium intracellulare	
+sin	STREPTOCOCCUS INTERMEDIUS	Streptococcus intermedius	
+cjk	CORYNEBACTERIUM JEIKEIUM	Corynebacterium jeikeium	
+lca	EGGERTHIA CATENAFORMIS	Eggerthia catenaformis	
+sct	STREPTOCOCCUS CONSTELLATUS	Streptococcus constellatus	
+ssa	STREPTOCOCCUS SALIVARIUS	Streptococcus salivarius	
+stc	STAPHYLOCOCCUS COHNII	Staphylococcus cohnii	
+sgo	STREPTOCOCCUS GORDONII	Streptococcus gordonii	
+ste	STENOTROPHOMONAS Sp.	Stenotrophomonas sp.	
+sta	STAPHYLOCOCCUS Sp.	Staphylococcus sp.	
+noc	NOCARDIA Sp.	Nocardia sp.	
+yfr	YERSINIA FREDERIKSENII	Yersinia frederiksenii	
+mab	MYCOBACTERIUM ABSCESSUS	Mycobacterium abscessus	
+hku	HELCOCOCCUS KUNZII	Helcococcus kunzii	
+leu	LEUCONOSTOC Sp.	Leuconostoc sp.	
+tve	TRICHOPHYTON VERRUCOSUM	Trichophyton verrucosum	
+vi-	VIBRIO Sp.	Vibrio sp.	
+ach	ACHROMOBACTER Sp.	Achromobacter sp.	
+cru	CANDIDA RUGOSA	Candida rugosa	
+pda	PASTEURELLA DAGMATIS	Pasteurella dagmatis	
+ske	SALMONELLA KENTUCKY	Salmonella Kentucky	
+pod	PSEUDOMONAS OTITIDIS	Pseudomonas otitidis	
+val	VIBRIO ALGINOLYTICUS	Vibrio alginolyticus	
+prv	PROVIDENCIA Sp.	Providencia sp.	
+muc	MUCOR Sp.	Mucor sp.	
+pvi	PLASMODIUM VIVAX	Plasmodium vivax	
+bif	BIFIDOBACTERIUM Sp.	Bifidobacterium sp.	
+ccl	CLOSTRIDIUM CLOSTRIDIIFORME	Clostridium clostridiiforme	
+msc	MYCOBACTERIUM SCROFULACEUM	Mycobacterium scrofulaceum	
+sle	STAPHYLOCOCCUS LENTUS	Staphylococcus lentus	
+nfa	NOCARDIA FARCINICA	Nocardia farcinica	
+esc	ESCHERICHIA Sp.	Escherichia sp.	
+ssn	STREPTOCOCCUS SANGUIS	Streptococcus sanguis	
+enk	ENTEROBACTER KOBEI	Enterobacter kobei	
+ykr	YERSINIA KRISTENSENII	Yersinia kristensenii	
+sod	SERRATIA ODORIFERA	Serratia odorifera	
+mho	MYCOPLASMA HOMINIS	Mycoplasma hominis	
+cgc	CLOSTRIDIUM GLYCOLICUM	Clostridium glycolicum	
+ssw	SALMONELLA SCHWARZENGRUND	Salmonella Schwarzengrund	
+bst	BACTEROIDES STERCORIS	Bacteroides stercoris	
+sbm	SALMONELLA BOVISMORBIFICANS	Salmonella Bovismorbificans	
+sor	SALMONELLA ORANIENBURG	Salmonella Oranienburg	
+lut	STREPTOCOCCUS LUTETIENSIS	Streptococcus lutetiensis	
+lla	LACTOCOCCUS LACTIS	Lactococcus lactis	
+cth	CANDIDA ORTHOPSILOSIS	Candida orthopsilosis	
+ssd	SALMONELLA SANDIEGO	Salmonella Sandiego	
+pal	PROVIDENCIA ALCALIFACIENS	Providencia alcalifaciens	
+gha	GEMELLA HAEMOLYSANS	Gemella haemolysans	
+cpq	CORYNEBACTERIUM PROPINQUUM	Corynebacterium propinquum	
+ssn	STREPTOCOCCUS SANGUINIS	Streptococcus sanguinis	
+nel	NEISSERIA ELONGATA	Neisseria elongata	
+swe	SALMONELLA WELTEVREDEN	Salmonella Weltevreden	
+sgy	STREPTOCOCCUS BOVIS I	Streptococcus bovis I	
+cas	CAPNOCYTOPHAGA SPUTIGENA	Capnocytophaga sputigena	
+dem	DESULFOVIBRIO	Desulfovibrio	
+shg	SALMONELLA HEIDELBERG	Salmonella Heidelberg	
+hap	HAEMOPHILUS APHROPHILUS	Haemophilus aphrophilus	
+bci	BACILLUS CIRCULANS	Bacillus circulans	
+pme	PSEUDOMONAS MENDOCINA	Pseudomonas mendocina	
+pni	PEPTOCOCCUS NIGER	Peptococcus niger	
+for	PSEUDOMONAS ORYZIHABITANS	Pseudomonas oryzihabitans	
+eaf	COLLINSELLA AEROFACIENS	Collinsella aerofaciens	
+shd	SHIGELLA SONNEI	Shigella sonnei	
+ped	PEDIOCOCCUS Sp.	Pediococcus sp.	
+phy	ANAEROCOCCUS HYDROGENALIS	Anaerococcus hydrogenalis	
+nfl	NEISSERIA FLAVESCENS	Neisseria flavescens	
+blo	BIFIDOBACTERIUM LONGUM	Bifidobacterium longum	
+mfo	MYCOBACTERIUM FORTUITUM	Mycobacterium fortuitum	
+spo	SALMONELLA POONA	Salmonella Poona	
+thm	SALMONELLA THOMPSON	Salmonella Thompson	
+sai	STAPHYLOCOCCUS AURICULARIS	Staphylococcus auricularis	
+kpn	KLEBSIELLA PNEUMONIAE SSP PNEUMONIAE	Klebsiella pneumoniae ss. pneumoniae	
+aes	AEROCOCCUS SANGUICOLA	Aerococcus sanguinicola	
+sau	STAPHYLOCOCCUS AUREUS	Staphylococcus aureus	
+sdy	STREPTOCOCCUS DYSGALACTIAE	Streptococcus dysgalactiae	
+sgc	STREPTOCOCCUS AGALACTIAE	Streptococcus agalactiae	
+spy	STREPTOCOCCUS PYOGENES	Streptococcus pyogenes	
+nci	NEISSERIA CINEREA	Neisseria cinerea	
+cub	CUTIBACTERIUM Sp.	Cutibacterium sp.	
+ega	ENTEROCOCCUS GALLINARUM	Enterococcus gallinarum	
+psd	STAPHYLOCOCCUS PSEUDINTERMEDIUS	Staphylococcus pseudintermedius	
+saj	GRANULICATELLA ADIACENS	Granulicatella adiacens	
+paa	PORPHYROMONAS ASACCHAROLYTICA	Porphyromonas asaccharolytica	
+evu	ESCHERICHIA VULNERIS	Escherichia vulneris	
+sjv	SALMONELLA JAVIANA	Salmonella Javiana	
+vei	VEILLONELLA Sp.	Veillonella sp.	
+bwa	BILOPHILA WADSWORTHIA	Bilophila wadsworthia	
+smb	SALMONELLA MBANDAKA	Salmonella Mbandaka	
+mma	MYCOBACTERIUM MARINUM	Mycobacterium marinum	
+cpd	CORYNEBACTERIUM PSEUDODIPHTHERITICUM	Corynebacterium pseudodiphtheriticum	
+smo	SALMONELLA MONTEVIDEO	Salmonella Montevideo	
+sbl	SALMONELLA BLOCKLEY	Salmonella Blockley	
+mge	MYCOBACTERIUM GENAVENSE	Mycobacterium genavense	
+plo	PREVOTELLA LOESCHEII	Prevotella loescheii	
+ppt	PEPTOSTREPTOCOCCUS Sp.	Peptostreptococcus sp.	
+msh	MYCOBACTERIUM SHIMOIDEI	Mycobacterium shimoidei	
+sit	STAPHYLOCOCCUS INTERMEDIUS	Staphylococcus intermedius	
+cgy	CORYNEBACTERIUM GLUCURONOLYTICUM	Corynebacterium glucuronolyticum	
+tya	TRICHOPHYTON YAOUNDEI	Trichophyton yaoundei	
+com	COMAMONAS Sp.	Comamonas sp.	
+sag	SALMONELLA AGONA	Salmonella Agona	
+cut	CANDIDA UTILIS	Candida utilis	
+afl	ASPERGILLUS FLAVUS	Aspergillus flavus	
+bgl	BURKHOLDERIA GLADIOLI	Burkholderia gladioli	
+cho	CARDIOBACTERIUM HOMINIS	Cardiobacterium hominis	
+eub	EUBACTERIUM Sp.	Eubacterium sp.	
+fus	FUSARIUM Sp.	Fusarium sp.	
+sau	METICILLINRESISTENTE STAPHYLOCOCCUS AUREUS (MRSA)	Staphylococcus aureus	
+kpn	KLEBSIELLA PNEUMONIAE MED PRODUKSJON AV ESBLCARBA	Klebsiella pneumoniae	
+lac	LACTOBACILLUS	Lactobacillus sp.	
+sta	STAPHYLOCOCCUS PETTENKOFERI	Staphylococcus sp.	
+vei	VEILLONELLA ATYPICA	Veillonella sp.	
+smu	STREPTOCOCCUS MUTANS GRUPPEN	Streptococcus mutans	
+cic	CLOSTRIDIUM INOCUUM	Clostridium innocuum	
+stt	STAPHYLOCOCCUS PASTAURI	Staphylococcus pasteuri	
+com	COMAMONAS KERSTERSII	Comamonas sp.	
+ps-	PSEUDOMONAS	Pseudomonas sp.	
+ne-	NEISSERIA ANIMALORIS	Neisseria sp.	
+act	ACTINOMYCES ORIS	Actinomyces sp.	
+chb	CHRYSEOBACTERIUM	Chryseobacterium sp.	
+yer	YERSINIA	Yersinia sp.	
+ac-	ACINETOBACTER	Acinetobacter sp.	
+afa	ALCALIGENES FAECALIS	Alcaligenes faecalis (odorans)	
+abx	ACINETOBACTER COMPLEX	Acinetobacter calcoaceticus-baumannii complex	
+cub	CUTIBACTERIUM GRANULOSUM	Cutibacterium sp.	
+svi	STREPTOCOCCUS VIRIDANS	Streptococcus viridans, alpha-hem.	
