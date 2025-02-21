@@ -4,7 +4,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of epivakt is to support analysis in HAI surveilance
+The goal of epivakt is to support analysis in HAI surveillance
 
 ## Installation
 
