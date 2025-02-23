@@ -12,9 +12,11 @@
 #'
 #' @returns A data frame containing the _value_ that the corresponding _name_
 #'   found in the data should be mapped
+#' @name read_mapping
+NULL
+
+#' @rdname read_mapping
 #' @export
-#'
-#' @examples
 read_mapping <- function(file, type, source = "analytix") {
 
   stopifnot(type %in% c("antibiotic", "specimen", "organism"))
@@ -23,34 +25,44 @@ read_mapping <- function(file, type, source = "analytix") {
   do.call(fun_name, list(file = file, source = source))
 }
 
+#' @rdname read_mapping
+#' @export
+read_analytix_mapping <- function(file) {
+
+  read.csv2(file, header = FALSE, sep = "\t", skip = 1)
+}
+
+#' @rdname read_mapping
+#' @export
 read_antibiotic_map <- function(file, source = "analytix") {
 
-  d <- read.csv2(file, header = FALSE, sep = "", skip = 1)
-
   if (source == "analytix") {
+    d <- read_analytix_mapping(file)
     return(data.frame(name = d$V2, value = d$V1))
   } else {
     stop(paste0("Unknown source '", source, "'."))
   }
 }
 
+#' @rdname read_mapping
+#' @export
 read_specimen_map <- function(file, source = "analytix") {
 
-  d <- read.csv2(file, header = FALSE, sep = "", skip = 1)
-
   if (source == "analytix") {
+    d <- read_analytix_mapping(file)
     return(data.frame(name = d$V3, value = d$V4))
   } else {
     stop(paste0("Unknown source '", source, "'."))
   }
 }
 
+#' @rdname read_mapping
+#' @export
 read_organism_map <- function(file, source = "analytix") {
 
-  d <- read.csv2(file, header = FALSE, sep = "", skip = 1)
-
   if (source == "analytix") {
-    return(data.frame(name = d$V2, value = d$V1))
+    d <- read_analytix_mapping(file)
+    return(data.frame(name = d$V2, value = d$V3))
   } else {
     stop(paste0("unknown source '", source, "'."))
   }
