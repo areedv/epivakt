@@ -33,11 +33,9 @@
 #'
 #' # Make a data set
 #' data.frame(epidata(id, date, location, organism))
-
 epidata <- function(id, date, location, organism, date_format = "%Y.%m.%d") {
-
   date <- as.Date(date, format = date_format)
-  organism <- categorize(organism, organism_map)
+  organism <- epivakt::categorize(organism, epivakt::organism_map)
 
   data.frame(id, date, location, organism)
 }
